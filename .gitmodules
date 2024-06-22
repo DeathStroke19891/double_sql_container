@@ -1,0 +1,3 @@
+[submodule "double_trouble"]
+	path = double_trouble
+	url = git@github.com:DeathStroke19891/double_trouble.git
